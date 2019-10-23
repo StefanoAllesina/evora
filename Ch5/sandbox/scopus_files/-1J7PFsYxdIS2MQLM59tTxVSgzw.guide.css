@@ -1,0 +1,53 @@
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU ._pendo-guide-container_ ._pendo-guide-content_ p {
+  /* Paragraph customizations */
+  max-width: 70ch;
+  line-height: 1.19;
+  color: #737373;
+  font-family: NexusSan;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .GuideTable {
+  margin-left: -15px;
+  margin-top: -15px;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .GuideImage {
+  width: 232px;
+  height: 368px;
+  object-fit: contain;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .btn-third {
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 6px;
+  cursor: pointer;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .ScopusLogo {
+  font-size: 30px;
+  text-align: right;
+  color: #e97110;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .RegistrationBenetifs td {
+  width: 210px;
+  padding-top: 8px;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .ShapeIcons {
+  width: 18px;
+  height: 12px;
+  margin-right: 5px;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .iconGroup {
+  border: solid 0.5px #ffffff;
+  height: 14px;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .iconMail {
+  border: solid 0.3px #ffffff;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .GuideTextSection {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+#_pendo_g_Bzgsg_WK4DARbpXE3oDn6MykmLU .GuideButton {
+  margin-left: 20px;
+}

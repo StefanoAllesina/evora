@@ -330,7 +330,7 @@ Description:
 - the "actor" on the left is presented with an allocation (of candies); they can accept/reject it acting on the levers
 - the top is a situation in which the actor faces *disadvantageous inequity*; the bottom *advantageous inequity*
 
-The data (taken from [Data Dryad](https://datadryad.org/resource/doi:10.5061/dryad.g3925)) are stored in `week2/data/Blake_et_al_Nature_2015.csv`. The csv file contains several columns:
+The data (taken from [Data Dryad](https://datadryad.org/resource/doi:10.5061/dryad.g3925)) are stored in `Ch3/data/Blake_et_al_Nature_2015.csv`. The csv file contains several columns:
 
 - `condition`: the treatment (`AI` or `DI`).
 - `eq.uneq`: was the distribution equal (`E`) or unequal (`U`)?

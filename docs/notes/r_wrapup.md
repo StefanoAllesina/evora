@@ -74,5 +74,5 @@ The index ranges from 0 to approximately 1, with higher values standing for larg
 
 - For each discipline, find the 10 most "inbred" institutions (i.e., those hiring their own graduates in higher proportion)
 
-Here's a possible [solution](solutions/week9)
+Here's a possible [solution](solutions/rw)
 

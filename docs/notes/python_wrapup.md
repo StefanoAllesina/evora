@@ -54,7 +54,7 @@ url = 'https://allesinalab.uchicago.edu/'
 page = requests.get(url, allow_redirects = True)
 ```
 
-Here's a possible [solution](solutions/week6_download)
+Here's a possible [solution](solutions/pw_download)
 
 ### Part 2: Extract information from the pages
 
@@ -82,7 +82,7 @@ for paper in papers:
 - For each paper in each page, extract the `paper_id`, `date`, `num_authors`, `title`, and save into a csv called `bioRXiv.csv`
 
 
-Here's a possible [solution](solutions/week6_parse)
+Here's a possible [solution](solutions/pw_parse)
 
 ### Part 3: Data analysis
 
@@ -90,7 +90,7 @@ Here's a possible [solution](solutions/week6_parse)
 
 - Draw the distribution of the number of authors in the *Subject Area*, and compute mean, median and other summary statistics on the distribution. If people choose different areas, we can see whether different disciplines have different authorship cultures.
 
-Here's a possible [solution](solutions/week6_analyze)
+Here's a possible [solution](solutions/pw_analyze)
 
 ### Part 4: Automation
 

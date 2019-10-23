@@ -1,4 +1,4 @@
-## Possible solution to warmup problem Week 5 (Logistic Map)
+## Possible solution to warmup problem Ch 6 (Logistic Map)
 
 ```python
 import numpy as np

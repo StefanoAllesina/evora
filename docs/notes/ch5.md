@@ -156,6 +156,8 @@ re.match(r'.*?\s', 'a sentence with multiple words').group()
 
 We are going to exploit a small ~~bug~~ feature of Scopus.
 
+Here's how to get the data for a given university (the file is provided in the sandbox for University of Chicago):
+
 - Go to [Scopus.com](https://www.scopus.com)
 - Click on "Affiliations"
 - Search for "University of Chicago"

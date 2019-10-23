@@ -1,10 +1,10 @@
-## Computational Tools for Biologists
+# Computational Tools for Biologists
 
 **11 Nov, 09:00 – 15 Nov, 17:00**
 
 **Casa Morgado Esporão, R. de Dona Isabel 6, 7000-880 Évora, Portugal**
 
-### General goals for the class
+## General goals for the class
 
 - Learn how to automate analysis of biological data
 - Program in different languages
@@ -12,7 +12,7 @@
 - Find out about tools that you didn't consider before
 - Jumpstart the learning of anything computer-related
 
-### Method
+## Approach
 
 - Lecture notes/book
 - Exercises in class and homework
@@ -23,13 +23,24 @@
 - Warmup exercises
 - Working as a group to solve the longer exercises at the end of the chapter
 
-### Before we start
+## Before we start
 
-#### Installation
+### Textbook
+The class is based on ["Computing Skills for Biologists"](https://computingskillsforbiologists.com/) by Allesina & Wilmes. Purchasing the book is not necessary, as lecture notes are provided below.
 
-#### Getting data and code
+### Installation
+You will need a laptop (Windows, Mac or Linux are fine), with several programs installed:
 
-- Open a terminal (`Ctrl + Alt + T` in Ubuntu)
+- Git & Git Bash [How to install](http://computingskillsforbiologists.com/setup/version-control/)
+- Python 3.xx (Anaconda version is preferred) & Jupyter notebooks along with several packages [How to install](http://computingskillsforbiologists.com/setup/basic-programming/) [Then install these packages](http://computingskillsforbiologists.com/setup/scientific-computing/)
+- R & RStudio along with several packages [How to install](http://computingskillsforbiologists.com/setup/statistical-computing/) [Then install these packages](http://computingskillsforbiologists.com/setup/data-wrangling-and-visualization/)
+
+
+### Getting data and code
+
+Next, you will need to download the data and code
+
+- Open a terminal (`Ctrl + Alt + T` in Ubuntu) or Git Bash
 - Clone the repository for the book
 
 ```
@@ -44,7 +55,7 @@ git clone https://github.com/StefanoAllesina/evora.git
 
 ### UNIX Shell
 
-- [Lecture notes and warmup](notes/ch1)
+- [Unix shell](notes/ch1)
 
 ### Programming in Python
 
@@ -52,7 +63,7 @@ git clone https://github.com/StefanoAllesina/evora.git
 - [Advanced Programming](notes/ch4)
 - [Regular Expressions](notes/ch5)
 - [Scientific Programming](notes/ch6)
-- [Python Wrapup](notes/phyton_wrapup)
+- [Python Wrapup](notes/python_wrapup)
 
 ### Programming in R
 

@@ -1,4 +1,4 @@
-## Possible solution to warmup problem Week 5 (Nepotism)
+## Possible solution to warmup problem Ch 6 (Nepotism)
 
 ```python
 import pandas as pd

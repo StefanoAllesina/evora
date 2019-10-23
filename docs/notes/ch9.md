@@ -191,5 +191,5 @@ The data are composed of about 1.4M rows. Each row reports a the number of times
 8. Find the most popular names today that were not present in the 1950 data, and viceversa.
 9. Check out some interesting trends: what happens to Neo after "The Matrix" (1999), Madonna after "Like a Virgin" (1983), and to Elvis after the debut (1956) and death (1977), Hermione after the first Harry Potter movie (2001), Diana after the royal wedding (1981) and death (1997), etc.?
 
-Here's a possible [solution](solutions/week8)
+Here's a possible [solution](solutions/ch9)
 
