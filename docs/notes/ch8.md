@@ -190,6 +190,13 @@ my_func <- function(arg1 = "default_value", arg2){
 }
 ```
 
+### Special topics
+
+[How to make sure your code is readable and easy to share.](readability)
+
+[How to make sure your code is correct.](unit_testing)
+
+
 ### Warmup exercise: TED Talks
 
 For our warmup, we are going to use a spreadsheet with information on 992 TED talks. The data were adapted from
