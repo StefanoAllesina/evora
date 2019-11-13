@@ -176,7 +176,7 @@ You can collect a series of commands into a **script**. Moreover, you can introd
 
 ```bash
 #!/bin/bash
-# the previousnot a comment: where to find the bash program
+# the previous line is not a comment: where to find the bash program
 
 cat $1 | sort | uniq > nodup_$1
 ```
